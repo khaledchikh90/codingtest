@@ -15,3 +15,5 @@ Goals:
     - load the image
     - resize the image to [average width of the specs, max height of the specs]
     - save the image
+
+Compiled with cmake: ./build/codingtest imagepath specFilePath
