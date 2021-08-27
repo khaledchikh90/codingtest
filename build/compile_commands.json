@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/khaled/Desktop/codingtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/khaled/Desktop/codingtest/include -isystem /usr/include/opencv  -g   -o CMakeFiles/codingtest.dir/src/Specs.cpp.o -c /home/khaled/Desktop/codingtest/src/Specs.cpp",
+  "file": "/home/khaled/Desktop/codingtest/src/Specs.cpp"
+},
+{
+  "directory": "/home/khaled/Desktop/codingtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/khaled/Desktop/codingtest/include -isystem /usr/include/opencv  -g   -o CMakeFiles/codingtest.dir/src/imageEditing.cpp.o -c /home/khaled/Desktop/codingtest/src/imageEditing.cpp",
+  "file": "/home/khaled/Desktop/codingtest/src/imageEditing.cpp"
+},
+{
+  "directory": "/home/khaled/Desktop/codingtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/khaled/Desktop/codingtest/include -isystem /usr/include/opencv  -g   -o CMakeFiles/codingtest.dir/src/utils.cpp.o -c /home/khaled/Desktop/codingtest/src/utils.cpp",
+  "file": "/home/khaled/Desktop/codingtest/src/utils.cpp"
+},
+{
+  "directory": "/home/khaled/Desktop/codingtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/khaled/Desktop/codingtest/include -isystem /usr/include/opencv  -g   -o CMakeFiles/codingtest.dir/demo/demo.cpp.o -c /home/khaled/Desktop/codingtest/demo/demo.cpp",
+  "file": "/home/khaled/Desktop/codingtest/demo/demo.cpp"
+}
+]
